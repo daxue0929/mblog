@@ -69,7 +69,7 @@ logging:
 
 # site.options.theme: [default|classic]
 site:
-    version: 3.5.0
+    version: 4.0.0
     location: ${user.dir}
     controls:
         # 注册开关
@@ -81,7 +81,7 @@ site:
         # 评论开关
         comment: true
     options:
-        theme: demo
+        theme: classic
         site_logo: /dist/images/logo/logo.png
         site_favicon: /dist/images/logo/m.png
         storage_max_width: 800
